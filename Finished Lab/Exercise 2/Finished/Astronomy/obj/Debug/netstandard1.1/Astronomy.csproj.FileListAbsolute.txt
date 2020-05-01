@@ -1,0 +1,14 @@
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 2\Start\Astronomy\obj\Debug\netstandard1.1\Astronomy.csproj.CoreCompileInputs.cache
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 2\Start\Astronomy\obj\Debug\netstandard1.1\Astronomy.App.xaml.g.cs
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 2\Start\Astronomy\obj\Debug\netstandard1.1\Astronomy.AstronomyMasterPage.xaml.g.cs
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 2\Start\Astronomy\obj\Debug\netstandard1.1\Astronomy.Pages.AboutPage.xaml.g.cs
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 2\Start\Astronomy\obj\Debug\netstandard1.1\Astronomy.Pages.AstronomicalBodyPage.xaml.g.cs
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 2\Start\Astronomy\obj\Debug\netstandard1.1\Astronomy.Pages.MoonPhasePage.xaml.g.cs
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 2\Start\Astronomy\obj\Debug\netstandard1.1\Astronomy.Pages.SunrisePage.xaml.g.cs
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 2\Start\Astronomy\obj\Debug\netstandard1.1\Astronomy.AssemblyInfoInputs.cache
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 2\Start\Astronomy\obj\Debug\netstandard1.1\Astronomy.AssemblyInfo.cs
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 2\Start\Astronomy\bin\Debug\netstandard1.1\Astronomy.deps.json
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 2\Start\Astronomy\bin\Debug\netstandard1.1\Astronomy.dll
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 2\Start\Astronomy\bin\Debug\netstandard1.1\Astronomy.pdb
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 2\Start\Astronomy\obj\Debug\netstandard1.1\Astronomy.dll
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 2\Start\Astronomy\obj\Debug\netstandard1.1\Astronomy.pdb

@@ -1,0 +1,13 @@
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 4\Start\Planets\Planets\bin\Debug\netstandard2.0\Planets.deps.json
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 4\Start\Planets\Planets\bin\Debug\netstandard2.0\Planets.dll
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 4\Start\Planets\Planets\bin\Debug\netstandard2.0\Planets.pdb
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 4\Start\Planets\Planets\obj\Debug\netstandard2.0\Planets.csprojAssemblyReference.cache
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 4\Start\Planets\Planets\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 4\Start\Planets\Planets\obj\Debug\netstandard2.0\PlanetsDetailPage.xaml.g.cs
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 4\Start\Planets\Planets\obj\Debug\netstandard2.0\PlanetsMasterPage.xaml.g.cs
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 4\Start\Planets\Planets\obj\Debug\netstandard2.0\Planets.csproj.CoreCompileInputs.cache
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 4\Start\Planets\Planets\obj\Debug\netstandard2.0\Planets.AssemblyInfoInputs.cache
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 4\Start\Planets\Planets\obj\Debug\netstandard2.0\Planets.AssemblyInfo.cs
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 4\Start\Planets\Planets\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 4\Start\Planets\Planets\obj\Debug\netstandard2.0\Planets.dll
+C:\Users\Quoc\Desktop\New folder\XAM290\Exercise 4\Start\Planets\Planets\obj\Debug\netstandard2.0\Planets.pdb

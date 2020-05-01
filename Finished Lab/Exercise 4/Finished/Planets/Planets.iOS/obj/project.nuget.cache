@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IfSH5Ln06jIrEEX/eaabMV4r8M9K7jpqxmqT8uJDzAlMxCLx7l8CQMRfRq5Sh2xrotiqHnzJH9SQx7GK2j8HPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Quoc\\Desktop\\New folder\\XAM290\\Exercise 4\\Start\\Planets\\Planets.iOS\\Planets.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Quoc\\.nuget\\packages\\xamarin.forms\\3.4.0.1008975\\xamarin.forms.3.4.0.1008975.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "HZkmAPsed7tKVCENn8Cj4O3Hr+a6PUZxywFeuNcZI6vNAamwy62xOwzY9Z4LA3k0AmIhkTAucTMHcx062yWjaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Quoc\\Desktop\\New folder\\XAM290\\Exercise 4\\Start\\Planets\\Planets.Android\\Planets.Android.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Quoc\\.nuget\\packages\\xamarin.android.arch.core.common\\1.0.0\\xamarin.android.arch.core.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\Quoc\\.nuget\\packages\\xamarin.android.arch.lifecycle.common\\1.0.3\\xamarin.android.arch.lifecycle.common.1.0.3.nupkg.sha512",
+    "C:\\Users\\Quoc\\.nuget\\packages\\xamarin.android.arch.lifecycle.runtime\\1.0.3\\xamarin.android.arch.lifecycle.runtime.1.0.3.nupkg.sha512",
+    "C:\\Users\\Quoc\\.nuget\\packages\\xamarin.android.support.animated.vector.drawable\\27.0.2\\xamarin.android.support.animated.vector.drawable.27.0.2.nupkg.sha512",
+    "C:\\Users\\Quoc\\.nuget\\packages\\xamarin.android.support.annotations\\27.0.2\\xamarin.android.support.annotations.27.0.2.nupkg.sha512",
+    "C:\\Users\\Quoc\\.nuget\\packages\\xamarin.android.support.compat\\27.0.2\\xamarin.android.support.compat.27.0.2.nupkg.sha512",
+    "C:\\Users\\Quoc\\.nuget\\packages\\xamarin.android.support.core.ui\\27.0.2\\xamarin.android.support.core.ui.27.0.2.nupkg.sha512",
+    "C:\\Users\\Quoc\\.nuget\\packages\\xamarin.android.support.core.utils\\27.0.2\\xamarin.android.support.core.utils.27.0.2.nupkg.sha512",
+    "C:\\Users\\Quoc\\.nuget\\packages\\xamarin.android.support.design\\27.0.2\\xamarin.android.support.design.27.0.2.nupkg.sha512",
+    "C:\\Users\\Quoc\\.nuget\\packages\\xamarin.android.support.fragment\\27.0.2\\xamarin.android.support.fragment.27.0.2.nupkg.sha512",
+    "C:\\Users\\Quoc\\.nuget\\packages\\xamarin.android.support.media.compat\\27.0.2\\xamarin.android.support.media.compat.27.0.2.nupkg.sha512",
+    "C:\\Users\\Quoc\\.nuget\\packages\\xamarin.android.support.transition\\27.0.2\\xamarin.android.support.transition.27.0.2.nupkg.sha512",
+    "C:\\Users\\Quoc\\.nuget\\packages\\xamarin.android.support.v4\\27.0.2\\xamarin.android.support.v4.27.0.2.nupkg.sha512",
+    "C:\\Users\\Quoc\\.nuget\\packages\\xamarin.android.support.v7.appcompat\\27.0.2\\xamarin.android.support.v7.appcompat.27.0.2.nupkg.sha512",
+    "C:\\Users\\Quoc\\.nuget\\packages\\xamarin.android.support.v7.cardview\\27.0.2\\xamarin.android.support.v7.cardview.27.0.2.nupkg.sha512",
+    "C:\\Users\\Quoc\\.nuget\\packages\\xamarin.android.support.v7.mediarouter\\27.0.2\\xamarin.android.support.v7.mediarouter.27.0.2.nupkg.sha512",
+    "C:\\Users\\Quoc\\.nuget\\packages\\xamarin.android.support.v7.palette\\27.0.2\\xamarin.android.support.v7.palette.27.0.2.nupkg.sha512",
+    "C:\\Users\\Quoc\\.nuget\\packages\\xamarin.android.support.v7.recyclerview\\27.0.2\\xamarin.android.support.v7.recyclerview.27.0.2.nupkg.sha512",
+    "C:\\Users\\Quoc\\.nuget\\packages\\xamarin.android.support.vector.drawable\\27.0.2\\xamarin.android.support.vector.drawable.27.0.2.nupkg.sha512",
+    "C:\\Users\\Quoc\\.nuget\\packages\\xamarin.forms\\3.4.0.1008975\\xamarin.forms.3.4.0.1008975.nupkg.sha512"
+  ],
+  "logs": []
+}
